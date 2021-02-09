@@ -1,6 +1,6 @@
-# azurefunctionsgraphql
+# Azure Functions with QraphQL Api
 
-## simple GraphQL Schema and AZ Function to return json data
+A simple GraphQL Schema and AZ Function to return json star wars data from a mock DB and https://swapi.dev/api (StarWars API)
 
 # credit
 
